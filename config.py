@@ -1,0 +1,7 @@
+user = 'admin'
+passwd = 'aisware-nfvi'
+tenant = 'admin'
+domain = 'Default'
+host = '10.21.70.12'
+protocal = 'http'
+proxy_id = ''
